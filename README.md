@@ -10,15 +10,15 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
-Define Scope – Identify the four focus areas (Concepts, Architectures, Applications, Scaling).
+1. Define Scope – Identify the four focus areas (Concepts, Architectures, Applications, Scaling).
 
-Collect Content – Review literature and examples of generative AI models.
+2. Collect Content – Review literature and examples of generative AI models.
 
-Organize Flow – Present the report in logical order (Intro → Fundamentals → Architectures → Applications → Scaling → Conclusion).
+3. Organize Flow – Present the report in logical order (Intro → Fundamentals → Architectures → Applications → Scaling → Conclusion).
 
-Structure Format – Use headings, bullet points, and sub-sections for clarity.
+4. Structure Format – Use headings, bullet points, and sub-sections for clarity.
 
-Finalize Report – Summarize insights and present findings in a concise format.
+5. Finalize Report – Summarize insights and present findings in a concise format.
 ## Output
 
 #### Introduction
