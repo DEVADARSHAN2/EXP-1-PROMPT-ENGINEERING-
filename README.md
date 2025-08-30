@@ -25,7 +25,7 @@ Finalize Report – Summarize insights and present findings in a concise format.
 
 Generative Artificial Intelligence (Generative AI) is a branch of AI that enables machines to create new data resembling human-generated content. Unlike traditional AI, which classifies or predicts, Generative AI focuses on synthesis and creativity—from text, images, and music to code and scientific discoveries. Modern advancements are powered by transformer-based Large Language Models (LLMs) such as GPT, BERT, and LLaMA, which leverage massive datasets and compute power.
 
-1. Foundational Concepts of Generative AI
+#### 1. Foundational Concepts of Generative AI
 
 Generative vs Discriminative Models
 
@@ -42,13 +42,13 @@ P(x) and sample from it.
 
 Self-Supervised Learning – Most LLMs are trained using self-supervised objectives (e.g., predicting the next token).
 
-2. Generative AI Architectures
+#### 2. Generative AI Architectures
 
 Variational Autoencoders (VAEs): Learn latent representations for controlled data generation.
 
 Generative Adversarial Networks (GANs): Generator vs Discriminator framework, producing realistic images and videos.
 
-Transformers:
+#### Transformers:
 
 Introduced in “Attention Is All You Need” (2017).
 
@@ -58,7 +58,7 @@ Enabled parallelization and scalability, becoming the foundation of modern LLMs 
 
 Diffusion Models: Recently used in high-quality image generation (Stable Diffusion, DALL·E).
 
-3. Applications of Generative AI
+#### 3. Applications of Generative AI
 
 Text & Language: Chatbots, translation, summarization, storytelling.
 
@@ -68,7 +68,7 @@ Code: AI coding assistants (e.g., GitHub Copilot).
 
 Multimodal AI: Systems like DALL·E and Gemini combine text, image, and audio generation.
 
-Industry-Specific:
+#### Industry-Specific:
 
 Healthcare: Drug discovery, protein folding (AlphaFold).
 
@@ -76,13 +76,13 @@ Education: Personalized learning content.
 
 Business: Report generation, data summarization, virtual assistants.
 
-4. Impact of Scaling in LLMs
+#### 4. Impact of Scaling in LLMs
 
 Scaling Laws: Model performance improves predictably with increases in parameters, dataset size, and compute.
 
 Emergent Abilities: Reasoning, coding, and zero-shot/few-shot learning emerge only beyond certain scales.
 
-Trade-offs:
+#### Trade-offs:
 
 High compute cost & energy consumption.
 
